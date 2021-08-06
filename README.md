@@ -1,6 +1,6 @@
 # Angular Server Side Rendering Example
 
-This project has two components, and exemplifies Server Side Rendering with routing.
+This project has two components, and exemplifies Server Side Rendering with routing using Angular Universal.
 
 ## Development server
 
