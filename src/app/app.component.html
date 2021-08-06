@@ -1,0 +1,16 @@
+<!-- Resources -->
+<mat-toolbar color="primary">
+  <span>Angular SSR Application</span>
+</mat-toolbar>
+
+<p>This is an Angular application</p>
+
+<a [routerLink]="'register'">
+  <button mat-raised-button color="primary">Show Register form</button>
+</a>
+
+<br/><br/>
+<hr/>
+<mat-card>
+  <router-outlet></router-outlet>
+</mat-card>

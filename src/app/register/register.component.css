@@ -1,0 +1,10 @@
+input {
+  border: 1px solid #f0f0f0;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-left: 10px;
+}
+label {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
